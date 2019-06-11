@@ -86,3 +86,18 @@ default:
 }
 
 
+- Les opérateurs utilisés dans les conditions, pour comparer deux valeurs entre elles
+
+```
+    == Verifie que deux valeurs sont identiques ( $x==$y )
+    === Verifie que deux valeurs sont identiques et du même type ( $x===$y )
+    != Verifie que deux valeurs sont différentes ( $x!=$y )
+    <> Verifie que deux valeurs sont différente ( $x <> $y ) => Cette forme est trés peu utilisée
+    !== Verifie que deux valeurs sont différentes et que les types de valeurs sont également différentes ( $x!==$y )
+    > Supérieur à ( $x>$y )
+    < Inférieur à ( $x<$y )
+    >= Supérieur ou égal
+    <= Inférieur ou égal
+    
+```    
+
