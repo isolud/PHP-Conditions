@@ -1,4 +1,4 @@
-Consignes :
+# Consignes :
 
 - Compléter la premiere ligne de code pour verifier que a est supérieur à b ( hello world sera affiché )
 - Compléter la seconde ligne de code pour verifier que a est différent de b ( hello world2 sera affiché )
@@ -8,7 +8,7 @@ Consignes :
 - Ajouter ensuite un bloc permettant d'éxécuter du code si la variable color ne vaux ni "red" ou "green"
 
 
-Théorie :
+# Théorie :
 
 En php, comme en javascript, vous pouvez écrire des blocs conditionels en utilisant if,else,elseif,switch
 
